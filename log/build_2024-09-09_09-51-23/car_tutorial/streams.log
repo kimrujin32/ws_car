@@ -1,0 +1,17 @@
+[0.445s] Invoking command in '/root/ws_car/build/car_tutorial': PYTHONPATH=/root/ws_car/build/car_tutorial/prefix_override:/root/ws_car/install/car_tutorial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /root/ws_car/build/car_tutorial/build --no-deps symlink_data
+[0.624s] running develop
+[0.736s] running egg_info
+[0.736s] writing car_tutorial.egg-info/PKG-INFO
+[0.736s] writing dependency_links to car_tutorial.egg-info/dependency_links.txt
+[0.736s] writing entry points to car_tutorial.egg-info/entry_points.txt
+[0.737s] writing requirements to car_tutorial.egg-info/requires.txt
+[0.737s] writing top-level names to car_tutorial.egg-info/top_level.txt
+[0.738s] reading manifest file 'car_tutorial.egg-info/SOURCES.txt'
+[0.738s] writing manifest file 'car_tutorial.egg-info/SOURCES.txt'
+[0.739s] running build_ext
+[0.739s] Creating /root/ws_car/install/car_tutorial/lib/python3.10/site-packages/car-tutorial.egg-link (link to .)
+[0.740s] Installing fake_driver script to /root/ws_car/install/car_tutorial/lib/car_tutorial
+[0.740s] 
+[0.740s] Installed /root/ws_car/build/car_tutorial
+[0.740s] running symlink_data
+[0.760s] Invoked command in '/root/ws_car/build/car_tutorial' returned '0': PYTHONPATH=/root/ws_car/build/car_tutorial/prefix_override:/root/ws_car/install/car_tutorial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /root/ws_car/build/car_tutorial/build --no-deps symlink_data
