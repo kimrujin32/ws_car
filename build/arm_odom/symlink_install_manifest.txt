@@ -1,0 +1,16 @@
+/home/robot/ws_arm/install/arm_odom/lib/arm_odom/arm_odom
+/home/robot/ws_arm/install/arm_odom/share/ament_index/resource_index/package_run_dependencies/arm_odom
+/home/robot/ws_arm/install/arm_odom/share/ament_index/resource_index/parent_prefix_path/arm_odom
+/home/robot/ws_arm/install/arm_odom/share/arm_odom/environment/ament_prefix_path.sh
+/home/robot/ws_arm/install/arm_odom/share/arm_odom/environment/ament_prefix_path.dsv
+/home/robot/ws_arm/install/arm_odom/share/arm_odom/environment/path.sh
+/home/robot/ws_arm/install/arm_odom/share/arm_odom/environment/path.dsv
+/home/robot/ws_arm/install/arm_odom/share/arm_odom/local_setup.bash
+/home/robot/ws_arm/install/arm_odom/share/arm_odom/local_setup.sh
+/home/robot/ws_arm/install/arm_odom/share/arm_odom/local_setup.zsh
+/home/robot/ws_arm/install/arm_odom/share/arm_odom/local_setup.dsv
+/home/robot/ws_arm/install/arm_odom/share/arm_odom/package.dsv
+/home/robot/ws_arm/install/arm_odom/share/ament_index/resource_index/packages/arm_odom
+/home/robot/ws_arm/install/arm_odom/share/arm_odom/cmake/arm_odomConfig.cmake
+/home/robot/ws_arm/install/arm_odom/share/arm_odom/cmake/arm_odomConfig-version.cmake
+/home/robot/ws_arm/install/arm_odom/share/arm_odom/package.xml

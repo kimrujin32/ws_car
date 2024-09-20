@@ -1,0 +1,35 @@
+[0.517s] Invoking command in '/home/robot/ws_arm/build/arm_tutorial': PYTHONPATH=/home/robot/ws_arm/build/arm_tutorial/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robot/ws_arm/install/arm_tutorial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/robot/ws_arm/build/arm_tutorial/build --no-deps symlink_data
+[0.702s] running develop
+[0.818s] running egg_info
+[0.818s] creating arm_tutorial.egg-info
+[0.818s] writing arm_tutorial.egg-info/PKG-INFO
+[0.818s] writing dependency_links to arm_tutorial.egg-info/dependency_links.txt
+[0.818s] writing entry points to arm_tutorial.egg-info/entry_points.txt
+[0.818s] writing requirements to arm_tutorial.egg-info/requires.txt
+[0.818s] writing top-level names to arm_tutorial.egg-info/top_level.txt
+[0.818s] writing manifest file 'arm_tutorial.egg-info/SOURCES.txt'
+[0.819s] reading manifest file 'arm_tutorial.egg-info/SOURCES.txt'
+[0.820s] writing manifest file 'arm_tutorial.egg-info/SOURCES.txt'
+[0.821s] running build_ext
+[0.821s] Creating /home/robot/ws_arm/install/arm_tutorial/lib/python3.10/site-packages/arm-tutorial.egg-link (link to .)
+[0.822s] Installing fake_driver script to /home/robot/ws_arm/install/arm_tutorial/lib/arm_tutorial
+[0.822s] 
+[0.822s] Installed /home/robot/ws_arm/build/arm_tutorial
+[0.822s] running symlink_data
+[0.822s] creating /home/robot/ws_arm/install/arm_tutorial/share/ament_index
+[0.822s] creating /home/robot/ws_arm/install/arm_tutorial/share/ament_index/resource_index
+[0.822s] creating /home/robot/ws_arm/install/arm_tutorial/share/ament_index/resource_index/packages
+[0.822s] symbolically linking /home/robot/ws_arm/build/arm_tutorial/resource/arm_tutorial -> /home/robot/ws_arm/install/arm_tutorial/share/ament_index/resource_index/packages
+[0.822s] symbolically linking /home/robot/ws_arm/build/arm_tutorial/package.xml -> /home/robot/ws_arm/install/arm_tutorial/share/arm_tutorial
+[0.822s] creating /home/robot/ws_arm/install/arm_tutorial/share/arm_tutorial/launch
+[0.822s] symbolically linking /home/robot/ws_arm/build/arm_tutorial/launch/fake.launch.py -> /home/robot/ws_arm/install/arm_tutorial/share/arm_tutorial/launch
+[0.822s] creating /home/robot/ws_arm/install/arm_tutorial/share/arm_tutorial/config
+[0.822s] symbolically linking /home/robot/ws_arm/build/arm_tutorial/config/odom.rviz -> /home/robot/ws_arm/install/arm_tutorial/share/arm_tutorial/config
+[0.822s] symbolically linking /home/robot/ws_arm/build/arm_tutorial/config/arm.rviz -> /home/robot/ws_arm/install/arm_tutorial/share/arm_tutorial/config
+[0.822s] creating /home/robot/ws_arm/install/arm_tutorial/share/arm_tutorial/urdf
+[0.822s] symbolically linking /home/robot/ws_arm/build/arm_tutorial/urdf/five_dof_arm.xacro -> /home/robot/ws_arm/install/arm_tutorial/share/arm_tutorial/urdf
+[0.822s] symbolically linking /home/robot/ws_arm/build/arm_tutorial/urdf/arm.first.xacro -> /home/robot/ws_arm/install/arm_tutorial/share/arm_tutorial/urdf
+[0.822s] symbolically linking /home/robot/ws_arm/build/arm_tutorial/urdf/arm.second.xacro -> /home/robot/ws_arm/install/arm_tutorial/share/arm_tutorial/urdf
+[0.823s] symbolically linking /home/robot/ws_arm/build/arm_tutorial/urdf/gazebo.xacro -> /home/robot/ws_arm/install/arm_tutorial/share/arm_tutorial/urdf
+[0.823s] symbolically linking /home/robot/ws_arm/build/arm_tutorial/urdf/arm.xacro -> /home/robot/ws_arm/install/arm_tutorial/share/arm_tutorial/urdf
+[0.847s] Invoked command in '/home/robot/ws_arm/build/arm_tutorial' returned '0': PYTHONPATH=/home/robot/ws_arm/build/arm_tutorial/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robot/ws_arm/install/arm_tutorial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/robot/ws_arm/build/arm_tutorial/build --no-deps symlink_data

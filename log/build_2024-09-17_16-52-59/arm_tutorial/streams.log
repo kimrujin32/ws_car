@@ -1,0 +1,17 @@
+[0.472s] Invoking command in '/home/robot/ws_arm/build/arm_tutorial': PYTHONPATH=/home/robot/ws_arm/build/arm_tutorial/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robot/ws_arm/install/arm_tutorial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/robot/ws_arm/build/arm_tutorial/build --no-deps symlink_data
+[0.654s] running develop
+[0.761s] running egg_info
+[0.761s] writing arm_tutorial.egg-info/PKG-INFO
+[0.761s] writing dependency_links to arm_tutorial.egg-info/dependency_links.txt
+[0.761s] writing entry points to arm_tutorial.egg-info/entry_points.txt
+[0.761s] writing requirements to arm_tutorial.egg-info/requires.txt
+[0.761s] writing top-level names to arm_tutorial.egg-info/top_level.txt
+[0.762s] reading manifest file 'arm_tutorial.egg-info/SOURCES.txt'
+[0.763s] writing manifest file 'arm_tutorial.egg-info/SOURCES.txt'
+[0.764s] running build_ext
+[0.764s] Creating /home/robot/ws_arm/install/arm_tutorial/lib/python3.10/site-packages/arm-tutorial.egg-link (link to .)
+[0.764s] Installing fake_driver script to /home/robot/ws_arm/install/arm_tutorial/lib/arm_tutorial
+[0.764s] 
+[0.764s] Installed /home/robot/ws_arm/build/arm_tutorial
+[0.764s] running symlink_data
+[0.786s] Invoked command in '/home/robot/ws_arm/build/arm_tutorial' returned '0': PYTHONPATH=/home/robot/ws_arm/build/arm_tutorial/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robot/ws_arm/install/arm_tutorial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/robot/ws_arm/build/arm_tutorial/build --no-deps symlink_data

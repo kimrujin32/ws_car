@@ -1,0 +1,23 @@
+[0.014s] Invoking command in '/home/robot/ws_arm/build/arm_odom': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robot/ws_arm/install/arm_tutorial:/root/turtlebot3_ws/install/turtlebot3_teleop:/root/turtlebot3_ws/install/turtlebot3_example:/root/monicar2_ws/install/monicar2_teleop:/root/monicar2_ws/install/monicar2_localization:/root/monicar2_ws/install/monicar2_imuconverter:/root/monicar2_ws/install/monicar2_bringup:/root/ws_robot/install/urdf_tutorial:/opt/ros/humble /usr/bin/cmake --build /home/robot/ws_arm/build/arm_odom -- -j8 -l8
+[0.055s] [100%] Built target arm_odom
+[0.212s] Invoked command in '/home/robot/ws_arm/build/arm_odom' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robot/ws_arm/install/arm_tutorial:/root/turtlebot3_ws/install/turtlebot3_teleop:/root/turtlebot3_ws/install/turtlebot3_example:/root/monicar2_ws/install/monicar2_teleop:/root/monicar2_ws/install/monicar2_localization:/root/monicar2_ws/install/monicar2_imuconverter:/root/monicar2_ws/install/monicar2_bringup:/root/ws_robot/install/urdf_tutorial:/opt/ros/humble /usr/bin/cmake --build /home/robot/ws_arm/build/arm_odom -- -j8 -l8
+[0.237s] Invoking command in '/home/robot/ws_arm/build/arm_odom': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robot/ws_arm/install/arm_tutorial:/root/turtlebot3_ws/install/turtlebot3_teleop:/root/turtlebot3_ws/install/turtlebot3_example:/root/monicar2_ws/install/monicar2_teleop:/root/monicar2_ws/install/monicar2_localization:/root/monicar2_ws/install/monicar2_imuconverter:/root/monicar2_ws/install/monicar2_bringup:/root/ws_robot/install/urdf_tutorial:/opt/ros/humble /usr/bin/cmake --install /home/robot/ws_arm/build/arm_odom
+[0.242s] -- Install configuration: ""
+[0.242s] -- Execute custom install script
+[0.242s] -- Up-to-date symlink: /home/robot/ws_arm/install/arm_odom/lib/arm_odom/arm_odom
+[0.242s] -- Up-to-date symlink: /home/robot/ws_arm/install/arm_odom/share/ament_index/resource_index/package_run_dependencies/arm_odom
+[0.242s] -- Up-to-date symlink: /home/robot/ws_arm/install/arm_odom/share/ament_index/resource_index/parent_prefix_path/arm_odom
+[0.242s] -- Up-to-date symlink: /home/robot/ws_arm/install/arm_odom/share/arm_odom/environment/ament_prefix_path.sh
+[0.242s] -- Up-to-date symlink: /home/robot/ws_arm/install/arm_odom/share/arm_odom/environment/ament_prefix_path.dsv
+[0.243s] -- Up-to-date symlink: /home/robot/ws_arm/install/arm_odom/share/arm_odom/environment/path.sh
+[0.243s] -- Up-to-date symlink: /home/robot/ws_arm/install/arm_odom/share/arm_odom/environment/path.dsv
+[0.243s] -- Up-to-date symlink: /home/robot/ws_arm/install/arm_odom/share/arm_odom/local_setup.bash
+[0.243s] -- Up-to-date symlink: /home/robot/ws_arm/install/arm_odom/share/arm_odom/local_setup.sh
+[0.245s] -- Up-to-date symlink: /home/robot/ws_arm/install/arm_odom/share/arm_odom/local_setup.zsh
+[0.247s] -- Up-to-date symlink: /home/robot/ws_arm/install/arm_odom/share/arm_odom/local_setup.dsv
+[0.250s] -- Symlinking: /home/robot/ws_arm/install/arm_odom/share/arm_odom/package.dsv
+[0.263s] -- Up-to-date symlink: /home/robot/ws_arm/install/arm_odom/share/ament_index/resource_index/packages/arm_odom
+[0.263s] -- Up-to-date symlink: /home/robot/ws_arm/install/arm_odom/share/arm_odom/cmake/arm_odomConfig.cmake
+[0.263s] -- Up-to-date symlink: /home/robot/ws_arm/install/arm_odom/share/arm_odom/cmake/arm_odomConfig-version.cmake
+[0.263s] -- Up-to-date symlink: /home/robot/ws_arm/install/arm_odom/share/arm_odom/package.xml
+[0.264s] Invoked command in '/home/robot/ws_arm/build/arm_odom' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robot/ws_arm/install/arm_tutorial:/root/turtlebot3_ws/install/turtlebot3_teleop:/root/turtlebot3_ws/install/turtlebot3_example:/root/monicar2_ws/install/monicar2_teleop:/root/monicar2_ws/install/monicar2_localization:/root/monicar2_ws/install/monicar2_imuconverter:/root/monicar2_ws/install/monicar2_bringup:/root/ws_robot/install/urdf_tutorial:/opt/ros/humble /usr/bin/cmake --install /home/robot/ws_arm/build/arm_odom
